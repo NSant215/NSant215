@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm NSant215.
 
-I am a software engineer at Microsoft currently working in the 5G Domain using Rust and Python.
+I am a software engineer at Microsoft currently working in the 5G Domain using Rust and Python and deploying using Docker and Kubernetes. My academic background is in Machine Learning and this github showcases my personal work in learning Information Engineering and new coding languages and technologies. 
 
 <!--
 **NSant215/NSant215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
