@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm NSant215.
+
+I am a software engineer at Microsoft currently working in the 5G Domain using Rust and Python.
 
 <!--
 **NSant215/NSant215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
